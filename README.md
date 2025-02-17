@@ -1,1 +1,2 @@
 # odin-recipes
+uhhhh meow, this is a project for The Odin Project. I'm hoping to lean more HTML and CSS to make my personal website even better. I think I'm gonna be making a recipes page on my website with links and images since that's really all I've "learned" so far.
